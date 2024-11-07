@@ -1,6 +1,0 @@
-print("Este es el archivo file_01.py \n")
-print("Este es el archivo file_01.py \n")
-print("Este es el archivo file_01.py \n")
-print("Este es el archivo file_01.py \n")
-print("Este es el archivo file_01.py \n")
-print("Hice un cambio en el file_01.py \n")
